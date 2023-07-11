@@ -109,3 +109,10 @@ body {
   font-weight: 400;
   width: 500px;
 }
+/* section-4 related styles */
+.instagram-content {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+}
