@@ -83,3 +83,29 @@ body {
   font-weight: 700;
   text-decoration-line: underline;
 }
+/* section-3 related styles */
+.discount {
+  display: flex;
+  align-items: center;
+  padding: 150px;
+  gap: 500px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+.discount-content {
+  text-align: center;
+}
+.discount-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+#pink {
+  color: #e55473;
+}
+.discount-para {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  width: 500px;
+}
