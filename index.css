@@ -52,7 +52,7 @@ body {
   display: flex;
   justify-content: center;
   text-align: center;
-  gap: 5px;
+  gap: 0px;
   margin-top: 30px;
 }
 .featured-description {
@@ -129,9 +129,20 @@ body {
   margin-bottom: 20px;
 }
 
-input {
+.input-content {
   padding: 17px;
   border: none;
+}
+/* section-6 related styles */
+.contact-title {
+  background-color: rgb(232, 187, 187);
+  padding: 20px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800px;
+}
+#brown {
+  color: #f7496f;
 }
 /* footer-section */
 footer {
